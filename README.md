@@ -8,4 +8,4 @@
 <p>Just Fill out the form Properly and you are ready to go. ;)</p>
 
 <br>  
-<img src="https://ratansingh98.github.io/assets/images/Hack-IT.png"></img>
+<img src="https://github.com/ratansingh98/Hack-iT/blob/master/Hack%20It/Hack-IT.png"></img>
